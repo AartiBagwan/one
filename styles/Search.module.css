@@ -1,0 +1,213 @@
+.navbar {
+    overflow: hidden;
+    background-color: #f1f1f1;
+    margin-top: 20px;
+    padding: 1px;
+  }
+  /* ==================navbar a=========== */
+  .navbar a {
+    float: left;
+    font-size: 16px;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  /* ====================syammm======= */
+  .Syammm{
+    margin-left: 13%;
+    width: 100%;
+    margin-top: 16px;
+  
+  }
+  #SOO{
+    background-color: #e6eae6;
+    color: rgb(103, 80, 80);
+    border-radius: 9px;
+    border: none;
+  }
+  /* ===============.dropdown=========== */
+  .dropdown {
+    float: left;
+    overflow: hidden;
+    margin-left: 15px;
+  }
+  /* ==============.dropdown .dropbtn===== */
+  .dropdown .dropbtn {
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color:black;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  /* ========================.navbar a:hover, .dropdown:hover .dropbtn======= */
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+  }
+  /* =========================.dropdown-content======= */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 260px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  /* =================.dropdown-content a======= */
+  .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  /* =======================..dropdown-content a:hover======== */
+  .dropdown-content a:hover {
+    background-color: #ddd;
+  }
+  /* =====================.dropdown:hover .dropdown-content================ */
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  /* ==================Syammmm============= */
+  
+  /* =======================form.example input[type=text] =========== */
+  form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 40%;
+    background: #f1f1f1;
+  }
+  /* ==================megha,,,,megh99=================== */
+  .megha{
+    margin-left: 50%;
+  }
+  .megha99{
+    margin-left: 50%;
+  }
+  /* ======================.bansal22================== */
+  .ABCD{
+    position: relative;
+    top: -30px;
+    margin-left: 67%;
+    font-size: 15px;
+    color: blue;
+    cursor: pointer;
+    border: none;
+  }
+  /* =======================.Kesav====================== */
+  .Kesav{
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 260px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  /* =====================.dropdown123======== */
+  .dropdown123 {
+    float: left;
+    overflow: hidden;
+    /* margin-right:990px; */
+  }
+  /* ===============.dropdown123 .BTNN=========== */
+  .dropdown123  {
+    font-size: 16px;  
+    color: black;
+    margin-right: 50px;
+    padding: 2px 25px;
+    /* background-color: inherit; */
+    /* font-family: inherit; */
+    /* margin: 0; */
+  }
+  .BTNN {
+    font-size: 16px;  
+    border: none;
+    /* outline: none; */
+    color:black;
+    padding: 10px 16px;
+    /* background-color: inherit;
+    font-family: inherit; */
+    margin: 0;
+    }
+  /* =====================DropDoen-Hello========= */
+  .dropdown-Hello {
+    display: none;
+  /* right: 5px; */
+    position: absolute;
+    background-color: #54967a;
+    margin-right:180px;
+    min-width: 100px;
+    /* box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); */
+    z-index: 1;
+  }
+  /* =====================DropDoen-Hello a========= */
+  .dropdown-Hello a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: right;
+  }
+  /* =====================.dropdown-Hello a:hover========= */
+  .dropdown-Hello a:hover {
+    background-color: #ddd;
+    }
+  /* =====================.dropdown123:hover .dropdown-Hello============== */
+  .dropdown123:hover .dropdown-Hello {
+    display: block;
+  }
+  #ICON1{
+    margin-right: 10px;
+    font-size: 20px;
+  }
+  #ICON2{
+    margin-left: 10px;
+    font-size: 20px;
+  }
+  #FFFF4{
+    color: blue;
+    font-size: 20px;
+    font-family: sans-serif;
+    /* font-weight: 600; */
+     margin-left: 10px;
+  }
+  #CCO{
+    color: rgb(238, 238, 14);
+  }
+  /* ========================= */
+  h2{
+    color: red;
+  }
+  
+  .card {
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); */
+   margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+  
+  .card button:hover {
+    opacity: 0.7;
+  }
+  
+  .galaryLayout{
+    display: flex;
+    flex-direction: row;
+    border:  1px solid red;
+    background-color: #f9f9f9;
+    border: none;
+    margin-top: 10px;
+    padding: 10px;
+    /* gap: 5px; */
+    overflow: auto;
+  }
+  
+  

@@ -1,0 +1,123 @@
+
+
+.manav{
+    
+    /* background-image: url('/blue1.jpg'); */
+    background-color: aliceblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 20px;
+    height: 98vh;
+}
+
+.gridbox{
+    /* background-image: url('/leptop6.jpg'); */
+    width: 80%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 10px;
+    margin: auto;
+    height: 90%;
+}
+.gridI1{
+    /* background-color: rgba(24, 12, 12, 0.3); */
+   background-image: url('/blue2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid rgb(20, 20, 20);
+   color: wheat;
+    padding: 20px;
+}
+
+.firstGrid{
+    /* position: absolute;
+    top: 50px; */
+}
+
+#hr1{
+    width: 15%;
+    text-align: center;
+}
+#h3{
+    margin-top: 35%;
+    text-align: center;
+}
+#h1, #P{
+    text-align: center;
+}
+#p{
+  
+}
+
+.gridI2{
+    background-color: rgb(29, 25, 25, .1);
+    border: 1px solid green;
+   padding-top: 90px;
+    color: wheat;
+    text-align: center;
+    line-height: 40px;
+    /* padding: 15%; */
+}
+
+.Ram{
+        height: 33px;
+        width: 75%;
+        border-radius: 5px;
+}
+/* ---========================== */
+#same{
+    color: black;
+    line-height: 17px;
+}
+.Pass1{
+    margin-left: 42%;
+    position: relative;
+    top: -58px;
+    /* color: black; */
+    color: blue;
+}
+/* ==== */
+
+ .rohan1{
+    position: relative;
+    top: -30px;
+}
+
+.Nam, .Nam1{
+    height: 34px;
+    width: 80%;
+    border-radius: 3px;
+    border: none;
+}
+
+.la{
+    margin-right: 46%;
+    position: relative;
+    top: -20px;
+    color: black;
+}
+#html{
+    position: relative;
+    top: -20px;
+}
+
+.BTN1{
+position: relative;
+top: -30px;
+}
+#But{
+    height: 45px;
+    width: 50%;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: blue;
+    color: wheat;
+}
+#pen{
+    color: blue;
+}
+@media screen and (max-width: 500px) {
+
+    .gridbox{width: 300%; margin-left: 10%; }
+ }
+ 

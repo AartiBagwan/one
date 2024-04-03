@@ -1,0 +1,81 @@
+
+body{
+    background-image: url('/leptop6.jpg');
+    /* background-color: black; */
+}
+.main1{
+    text-align: center;
+    border: 1px solid rgb(184, 172, 172);
+    width: 30%;
+    margin-left: 10%;
+ 
+}
+.tell, .tell1{
+    height: 30px;
+    width: 75%;
+    border-radius: 3px;
+    border: none;
+}
+#i{
+ color: orange;
+}
+#hello{
+    position: relative;
+    top: -40px;
+    margin-right: 58%;
+    font-style: italic;
+
+}
+.humm, .humm1{
+    position: relative;
+    top: -30px;
+}
+.icone{
+    font-size: 45px;
+    position: relative;
+    top: -25px;
+    margin-left: 40%;
+}
+#Sp, #Sp1{
+    font-size: 25px;
+    border: 1px solid black;
+    border: none;
+    border-radius: 3px;
+    padding: 3px;
+    position: relative;
+    top: 3px;
+    /* height: 50px; */
+    background-color: orange;
+    }
+    .la{
+        color: beige;
+      }
+  .remee{
+    margin-right: 50%;
+  } 
+  .btn{
+    margin-left: 60%;
+    position: relative;
+    top: -10px;
+    
+  }   
+#Bt{
+    height: 36px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: orange;
+    cursor: pointer;
+}
+p{
+    color: white;
+}
+
+@media screen and (max-width: 500px) {
+
+   .main1{width: 105%; margin-left: 10%; }
+}
+
+
+
+
+
