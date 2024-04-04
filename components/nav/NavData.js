@@ -25,5 +25,9 @@ export const NavData=[
         title:'our services',
         link:'/index3'
     },
-   
+    {
+        id:6,
+        title:'our services',
+        link:'/index3'
+    },
 ]
